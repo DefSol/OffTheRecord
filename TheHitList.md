@@ -6,5 +6,5 @@ Nau mau haere mai whanau.
 - Jordan Morris [https://www.twiter.com/scalablenotions](@scalablenotions) TradeMe (Accepted)
 - Thiago Almeida [https://www.twitter.com/nzthiago](@nzthiago) MS Azure NZ
 - Marcus Bristol [https://twitter.com/mightymuke](@mightymuke) Organiser of the software Craftmanship Meetup
-- Ian Randall [https://twitter.com/kiwipom](@kiwipom) PushPay Codemania Organiser
+- Ian Randall [https://twitter.com/kiwipom](@kiwipom) PushPay Codemania Organiser (Accepted)
 - Ben Gracewood [https://twitter.com/nzben](@nzben) VendHQ Codemania Organiser
