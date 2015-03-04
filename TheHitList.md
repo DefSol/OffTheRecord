@@ -4,6 +4,7 @@ Nau mau haere mai whanau.
 
 **The Hit List**
 - Jordan Morris [https://www.twiter.com/scalablenotions](@scalablenotions) TradeMe (Accepted)
+- Nigel Parker [https://www.twitter.com/nzigel](@nzigel) MS Developer Experience team NZ
 - Thiago Almeida [https://www.twitter.com/nzthiago](@nzthiago) MS Azure NZ (Accepted)
 - Marcus Bristol [https://twitter.com/mightymuke](@mightymuke) Organiser of the software Craftmanship Meetup (Accepted)
 - Ian Randall [https://twitter.com/kiwipom](@kiwipom) PushPay Codemania Organiser (Accepted)
