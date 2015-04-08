@@ -3,7 +3,7 @@ Let us know who you would like to hear on the show. We'll let them know and conf
 Nau mau haere mai whanau.
 
 **The Hit List**
-- Jordan Morris [@scalablenotions](https://www.twiter.com/scalablenotions) TradeMe (Accepted)
+- Jordan Morris [@scalablenotions](https://www.twitter.com/scalablenotions) TradeMe (Accepted)
 - Nigel Parker [@nzigel](https://www.twitter.com/nzigel) MS Developer Experience team NZ
 - Thiago Almeida [@nzthiago](https://www.twitter.com/nzthiago) MS Azure NZ (Accepted)
 - Marcus Bristol [@mightymuke](https://twitter.com/mightymuke) Organiser of the software Craftmanship Meetup (Accepted)
