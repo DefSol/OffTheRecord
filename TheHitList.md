@@ -3,9 +3,9 @@ Let us know who you would like to hear on the show. We'll let them know and conf
 Nau mau haere mai whanau.
 
 **The Hit List**
-- Jordan Morris [https://www.twiter.com/scalablenotions](@scalablenotions) TradeMe (Accepted)
-- Nigel Parker [https://www.twitter.com/nzigel](@nzigel) MS Developer Experience team NZ
-- Thiago Almeida [https://www.twitter.com/nzthiago](@nzthiago) MS Azure NZ (Accepted)
-- Marcus Bristol [https://twitter.com/mightymuke](@mightymuke) Organiser of the software Craftmanship Meetup (Accepted)
-- Ian Randall [https://twitter.com/kiwipom](@kiwipom) PushPay Codemania Organiser (Accepted)
-- Ben Gracewood [https://twitter.com/nzben](@nzben) VendHQ Codemania Organiser
+- Jordan Morris [@scalablenotions](https://www.twiter.com/scalablenotions) TradeMe (Accepted)
+- Nigel Parker [@nzigel](https://www.twitter.com/nzigel) MS Developer Experience team NZ
+- Thiago Almeida [@nzthiago](https://www.twitter.com/nzthiago) MS Azure NZ (Accepted)
+- Marcus Bristol [@mightymuke](https://twitter.com/mightymuke) Organiser of the software Craftmanship Meetup (Accepted)
+- Ian Randall [@kiwipom](https://twitter.com/kiwipom) PushPay Codemania Organiser (Accepted)
+- Ben Gracewood [@nzben](https://twitter.com/nzben) VendHQ Codemania Organiser
